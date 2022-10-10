@@ -22,4 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-<!-- git init形成本地仓库,git add . ,git commit -m ''都是在本地使用的,要创建远程仓库git remote add origin git仓库地址,git push -u origin master,要推送远程git push -->
+<!-- git init形成本地仓库,git add . ,git commit -m ''都是在本地使用的,要创建远程仓库git remote add origin git仓库地址,git push -u origin master,要推送远程git push,git clone 仓库地址,git pull, -->
+<!-- 还剩下代码优化等操作 -->
